@@ -14,6 +14,9 @@ This is a **Java-based Desktop Application** designed to help users manage their
 * **User Interface:** Built using Java Swing/AWT for a clean GUI.
 * **Database Integration:** Connects to a database (MySQL) to store financial records securely.
 * **Transaction Tracking:** Add, view, and manage daily financial transactions.
+* 
+## 🖼️ Project Screenshots
+![Main Interface](screenshot1.png)
 
 ## 🛠️ Technologies Used
 * **Language:** Java
